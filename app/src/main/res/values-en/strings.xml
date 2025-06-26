@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trips</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="go_to_signup">Sign up</string>
+
+    <!-- Signup -->
+    <string name="signup">Sign Up</string>
+    <string name="create_account">Create Account</string>
+
+    <!-- Errors -->
+    <string name="error_fill_all_fields">Please fill in all fields</string>
+    <string name="error_auth_failed">Authentication failed</string>
+
+    <!-- Map -->
+    <string name="add_position">Add Position</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="no_position_to_save">No positions to save</string>
+    <string name="trip_saved">Trip saved</string>
+    <string name="location_unavailable">Location unavailable</string>
+    <string name="not_connected">User not connected</string>
+
+    <!-- Save popup -->
+    <string name="save_trip_title">Save trip</string>
+    <string name="trip_title_hint">Trip title</string>
+    <string name="trip_desc_hint">Description</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    
+    <!-- Settings -->
+    <string name="dark_mode">Dark mode</string>
+    <string name="logout">Logout</string>
+
+    <!-- Bottom Menu -->
+    <string name="map">Map</string>
+    <string name="trips">Trips</string>
+    <string name="settings">Settings</string>
+
+    <!-- Bouton -->
+    <string name="btnAddPosition">Add Position</string>
+    <string name="btnSaveTrip">Save Trip</string>
+
+    <!-- Bouton Delete -->
+    <string name="btn_delete_trip">Delete Trip</string>
+    <string name="delete_success">Trip Deleted</string>
+    <string name="delete_failure">Failed to delete</string>
+    <string name="delete_not_found">No trips found</string>
+    <string name="delete_search_error">Error Research</string>
+
+    <!-- Bouton Edit -->
+    <string name="edit_trip">Edit Trip</string>
+    <string name="edit_trip_title">Title</string>
+    <string name="edit_trip_description">Description</string>
+    <string name="save_changes">Save</string>
+
+    <!-- Bouton Forgot Password -->
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="reset_password">A link has been sent to your Email address.</string>
+    <string name="error_email_required">Please enter your Email</string>
+
+
+
+</resources>

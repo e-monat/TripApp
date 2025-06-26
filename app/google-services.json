@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776230408656",
+    "project_id": "trips-d699d",
+    "storage_bucket": "trips-d699d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776230408656:android:ca2d52db8b31505fd3e9d5",
+        "android_client_info": {
+          "package_name": "com.example.inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqZM61dzE4wwxTke1ndDO9Yrc1erEVzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776230408656:android:877c35a97f69a4dfd3e9d5",
+        "android_client_info": {
+          "package_name": "com.example.inventory.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqZM61dzE4wwxTke1ndDO9Yrc1erEVzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

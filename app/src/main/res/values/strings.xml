@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trips</string>
+    <string name="login">Connexion</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="go_to_signup">Créer un compte</string>
+    <string name="signup">Créer un compte</string>
+    <string name="create_account">Créer mon compte</string>
+    <string name="error_fill_all_fields">Veuillez remplir tous les champs</string>
+    <string name="error_auth_failed">Échec : vérifiez vos informations</string>
+    <string name="add_position">Ajouter Position</string>
+    <string name="save_trip">Enregistrer Trajet</string>
+    <string name="no_position_to_save">Aucune position à enregistrer</string>
+    <string name="trip_saved">Trajet sauvegardé</string>
+    <string name="location_unavailable">Localisation non disponible</string>
+    <string name="not_connected">Utilisateur non connecté</string>
+    <string name="save_trip_title">Enregistrer le trajet</string>
+    <string name="trip_title_hint">Titre du trajet</string>
+    <string name="trip_desc_hint">Description</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="logout">Déconnexion</string>
+    <string name="map">Carte</string>
+    <string name="trips">Trajets</string>
+    <string name="settings">Paramètres</string>
+    <string name="btnAddPosition">Ajouter Position</string>
+    <string name="btnSaveTrip">Save Trip</string>
+    <string name="btn_delete_trip">Supprimer le trajet</string>
+    <string name="delete_success">Trajet supprimé</string>
+    <string name="delete_failure">Échec de la suppression</string>
+    <string name="delete_not_found">Aucun document trouvé</string>
+    <string name="delete_search_error">Erreur lors de la recherche</string>
+    <string name="edit_trip">Modifier le trajet</string>
+    <string name="edit_trip_title">Titre</string>
+    <string name="edit_trip_description">Description</string>
+    <string name="save_changes">Enregistrer</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="reset_password">Un lien de réinitialisation a été envoyé à votre adresse email.</string>
+    <string name="error_email_required">Veuillez entrer votre email</string>
+
+
+</resources>

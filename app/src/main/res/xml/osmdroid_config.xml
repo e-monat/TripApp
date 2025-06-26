@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm-sdk
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <user-agent
+        android:value="com.example.inventory" />
+</osm-sdk>

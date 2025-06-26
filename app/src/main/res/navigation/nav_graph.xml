@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mapFragment">
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.inventory.ui.MapFragment"
+        android:label="Map" />
+
+    <fragment
+        android:id="@+id/tripsFragment"
+        android:name="com.example.inventory.ui.TripsFragment"
+        android:label="Trips" />
+
+    <fragment
+        android:id="@+id/setingsFragment"
+        android:name="com.example.inventory.ui.SetingsFragment"
+        android:label="Settings" />
+    <fragment
+        android:id="@+id/tripDetailFragment"
+        android:name="com.example.inventory.ui.TripDetailFragment"
+        android:label="Détail trajet" />
+
+</navigation>
